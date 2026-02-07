@@ -18,7 +18,10 @@ Happy Coding! 😊
 ## 📺 Java Basics – YouTube Playlist
 
 🎥 Watch the full Java Basics tutorial series on YouTube:
-👉 [Java Basics Tutorial in Tamil](https://www.youtube.com/playlist?list=PL600bMK7rb2ZqsKfUxmCiT8yZnA6IBco4)
+👉 <a href="https://www.youtube.com/playlist?list=PL600bMK7rb2ZqsKfUxmCiT8yZnA6IBco4" target="_blank">
+📺 Java Basics Tutorial in Tamil
+</a>
+
 
 📌 This repository contains the exact source code used in the videos.
 📌 Folder names match the video sequence for easy learning.
